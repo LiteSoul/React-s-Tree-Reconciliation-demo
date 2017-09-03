@@ -1,6 +1,5 @@
-{
-	"useTabs": true,
-	"singleQuote": true,
-	"semi": false,
-	"trailingComma": "es5"
-}
+# YAML format
+usesTabs: true
+singleQuote: true
+semi: false
+trailingComma: "es5"
