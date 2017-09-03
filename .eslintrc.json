@@ -1,31 +1,14 @@
 {
-    "env": {
-        "node": true
-    },
-    "extends": [
-        "eslint:recommended",
-        "prettier"
-        ],
-    "rules": {
-        "indent": [
-            "error",
-            "tab"
-        ],
-        "linebreak-style": [
-            "error",
-            "windows"
-        ],
-        "quotes": [
-            "error",
-            "double"
-        ],
-        "semi": [
-            "error",
-            "never"
-        ],
-        "prettier/prettier": "error"
-    },
-    "plugins": [
-        "prettier"
-    ]
+  "env": {
+    "node": true
+  },
+  "extends": ["eslint:recommended", "prettier"],
+  "rules": {
+    "indent": ["error", "tab"],
+    "linebreak-style": ["error", "windows"],
+    "quotes": ["error", "single"],
+    "semi": ["error", "never"],
+    "prettier/prettier": "error"
+  },
+  "plugins": ["prettier"]
 }
