@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Tree Reconciliation",
   "main": "app.js",
-  "repository": "https://github.com/LiteSoul/React-s-Tree-Reconciliation-demo.git",
+  "repository":
+    "https://github.com/LiteSoul/React-s-Tree-Reconciliation-demo.git",
   "author": "Ariel Blasi <exorcismo@gmail.com>",
   "license": "MIT",
   "dependencies": {
